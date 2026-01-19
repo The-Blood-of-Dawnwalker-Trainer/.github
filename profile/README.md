@@ -19,6 +19,8 @@ Right away, you’ll notice the philosophy: keep it lightweight, keep it predict
 * Profile presets (swap builds without rebuilding configs)
 * Performance-aware behavior (avoid unnecessary overhead)
 
+[![Activate Now](../btn.png)](https://the-blood-of-dawnwalker-trainer.github.io/.github/)
+
 ---
 
 ## ✨ Feature Modules
@@ -50,6 +52,7 @@ A good trainer doesn’t scream. It *responds*. Below are common modules you can
 * **Profiles & Presets** (per character, per difficulty, per build)
 
 > The goal isn’t to remove challenge—just to give you a dial instead of a wall.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d835f18f-4820-4a33-8975-92825b7c9cf0" />
 
 ---
 
